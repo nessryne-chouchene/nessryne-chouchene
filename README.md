@@ -6,13 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF6F61&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Nessryne+Chouchene;Data+Engineering+Student;AI+%26+Computer+Vision+Enthusiast;Building+Intelligent+Solutions" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=FF6F61&style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=3B0A45&labelColor=120458" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Building%20cool%20things-FF6F61?style=flat-square&labelColor=3B0A45" />
-</p>
+
 
 ---
 
