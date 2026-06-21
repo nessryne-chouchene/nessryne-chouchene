@@ -237,8 +237,8 @@ A medical-oriented **web platform** designed to bridge the gap between patients 
 ```
   +----------------------------------------------+
   |  nessrine1925@gmail.com                      |
-  |  linkedin.com/in/YOUR_LINKEDIN               |
-  |  github.com/YOUR_USERNAME                    |
+  |  https://www.linkedin.com/in/nessryne-chouchene-86929b290/?locale=fr|
+  |  github.com/nessryne-chouchene                    |
   +----------------------------------------------+
 ```
 
